@@ -7,4 +7,10 @@
 - :surfer: Things that i've learned; 
     ![](https://icons8.com/icon/Rc0Xn5AtE8kX/python)Python
     ![](https://icons8.com/icon/13406/sql)SQL
+    
+    
+    
+    
+    
+    
 ![](https://github.com/WojtekNav/Hello_World/blob/main/llokin.gif)
