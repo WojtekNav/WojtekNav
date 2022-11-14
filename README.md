@@ -2,7 +2,7 @@
 ![](https://github.com/WojtekNav/Hello_World/blob/main/intro.gif)
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Junior Software Developer
-- ![](https://github.com/WojtekNav/Hello_World/blob/main/icons/icons8-loading-bar.gif) I’m currently working on and learning;
+- [<img src="[https://github.com/WojtekNav/Hello_World/blob/main/icons/icons8-loading-bar.gif]" height="30em" align="center" alt="ll" title="ll"/>](https://github.com/WojtekNav/Hello_World/blob/main/icons/icons8-loading-bar.gif) I’m currently working on and learning;
 
     ![](https://github.com/WojtekNav/Hello_World/blob/main/icons/icons8-blockchain-60.png) Solidity
     ![](https://github.com/WojtekNav/Hello_World/blob/main/icons/icons8-blockchain-60.png) Solana-Rust
